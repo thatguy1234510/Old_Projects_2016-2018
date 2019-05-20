@@ -1,0 +1,8 @@
+c:\users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\bin\Debug\Matrix_3Dgraphics_Port.exe.config
+C:\Users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\bin\Debug\Matrix_3Dgraphics_Port.exe
+C:\Users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\bin\Debug\Matrix_3Dgraphics_Port.pdb
+C:\Users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\obj\Debug\Matrix_3Dgraphics_Port.csprojResolveAssemblyReference.cache
+C:\Users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\obj\Debug\Matrix_3Dgraphics_Port.exe
+C:\Users\proff\onedrive\documents\visual studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\obj\Debug\Matrix_3Dgraphics_Port.pdb
+C:\Users\proff\OneDrive\Documents\Visual Studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\obj\Debug\Matrix_3Dgraphics_Port.Renderer_3D.resources
+C:\Users\proff\OneDrive\Documents\Visual Studio 2015\Projects\Matrix_3Dgraphics_Port\Matrix_3Dgraphics_Port\obj\Debug\Matrix_3Dgraphics_Port.csproj.GenerateResource.Cache
